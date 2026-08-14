@@ -9,3 +9,7 @@ _This is **italic and bold** text_
 __This is bold and *italic* text__
 
 \_This is all \*\*plain\*\* text\_
+
+###### This is H6 text
+
+![Link an image.] (https://static.vecteezy.com/system/resources/thumbnails/054/311/940/small/a-sitting-dog-transparent-free-png.png)
