@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is *italic* text.
+This is also _italic_ text.
+
 <!--
 **brandonlsosa-dev/brandonlsosa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
