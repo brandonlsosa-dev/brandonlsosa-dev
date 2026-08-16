@@ -15,3 +15,18 @@ __This is bold and *italic* text__
 ![Link an image.] (https://static.vecteezy.com/system/resources/thumbnails/054/311/940/small/a-sitting-dog-transparent-free-png.png)
 
 [Link to Microsoft Training]([/Training](https://learn.microsoft.com/en-us/training/))
+
+1. First
+2. Second
+3. Third
+
+- First
+  - Nested
+- Second
+- Third
+
+First|Second
+-|-
+1|2
+3|4
+
