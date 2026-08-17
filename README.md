@@ -30,3 +30,31 @@ First|Second
 1|2
 3|4
 
+> This is quoted text.
+
+Here is a<br />line break
+
+This is `code`.
+
+```markdown
+var first = 1;
+var second = 2;
+var sum = first +second;
+```
+
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+
+@githubteacher
+
+- [x] First task
+- [X] Second task
+- [ ] Third task
+
+/code
+/details
+/saved-replies
+/table
