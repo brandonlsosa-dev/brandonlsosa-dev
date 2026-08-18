@@ -1,27 +1,7 @@
-###### Welcome to my repo
+# Welcome to my repo
 
-This is my ***official*** GitHub profile where I will be doing all my cloud related projects from.
+My name is Brandon Sosa. I am an aspiring cloud engineer and currently a Support Engineer working for Amwell. I am excited to document my journey and share the cloud projects I complete along the way.
 
-I used [Microsoft Training]([/Training](https://learn.microsoft.com/en-us/training/))
+#### Socials 
 
-Practicing list ordered and unordered
-
-1. First
-2. Second
-3. Third
-
-- First
-  - Nested
-- Second
-- Third
-
-First|Second
--|-
-1|2
-3|4
-
-> This is quote text
-
-- [x] First task
-- [x] Second task
-- [ ] Third task
+[LinkedIn](https://www.linkedin.com/in/brandonlsosa/)
